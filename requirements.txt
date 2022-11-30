@@ -1,0 +1,3 @@
+Pillow
+numpy
+doki-theme-jupyter

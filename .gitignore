@@ -1,0 +1,19 @@
+# Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Media files
+*.jpg
+*.png
+*.webp
+
+# Don't ignore the preview
+!preview.jpg
+
+# Submodules
+doki_themes/
+
+# Node modules
+node_modules/
