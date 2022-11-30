@@ -57,6 +57,6 @@ demo.launch()
 
 ### Preview
 
-TODO
+![](preview.jpg)
 
 Enjoy!
