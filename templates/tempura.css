@@ -29,6 +29,10 @@
 
 /* TOKENS */
 
+.gradio-container .progress-bar {{
+    background-color: {accentColor};
+}}
+
 .gradio-container,
 .gradio-container button,
 .gradio-container input,
