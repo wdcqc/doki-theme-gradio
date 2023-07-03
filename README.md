@@ -6,6 +6,12 @@ Themes ported from https://github.com/doki-theme/doki-theme-jupyter
 
 If you like this, please check out the [Doki Themes](https://doki-theme.unthrottled.io/)! Cute anime theme for every programming tool.
 
+**NOTE**
+
+As of 2023.7.3, Gradio has supported custom themes. I didn't ~~bother~~ have time to rewrite this with the officially supported style, so it might not work in new Gradio versions.
+
+If you like this, you can try to do it yourself! Your effort will help countless anime and machine-learning lovers.
+
 ### Usage
 
 1. Put the `templates` folder as well as `doki_settings.json`, `gradio_doki.py` in your Gradio project
